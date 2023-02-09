@@ -16,4 +16,4 @@ Data Cleaning and Formatting columns to do Data Analysis
 
 https://www.kaggle.com/code/viacheslavliashenko/mobile-price-prediction
 
-Fining the best suitable classifier using gridsearch class from scikit learn, testing all classifiers to get the best accuracy and predcting the test set
+Fining the best suitable classifier using gridsearch class from scikit learn, testing all classifiers to get the best accuracy and predicting the test set
