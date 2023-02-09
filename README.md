@@ -1,7 +1,6 @@
 # MLCode
 
-Credit Card Eligibility DataSet Code in Kaggle 
-
+Credit Card Eligibility DataSet Code in Kaggle #supervised Machine Learning
 
 https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
 
